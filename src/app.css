@@ -6,15 +6,22 @@ h1 {
   color: olive;
   text-align: center;
 }
-
-a {
-  display: flex;
-  justify-content: space-evenly;
-  text-decoration: none;
+h2 {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+footer a {
   color: peru;
 }
 
 img {
   display: block;
   margin: 0 auto;
+}
+
+.contact-link {
+  display: flex;
+  justify-content: center;
 }
